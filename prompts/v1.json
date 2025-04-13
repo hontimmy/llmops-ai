@@ -1,0 +1,4 @@
+{
+  "version": "v1",
+  "prompt": "Translate the following English text to French: '{{input}}'"
+}
